@@ -16,3 +16,8 @@ Thumbs.db
 .idea/
 output.pdf
 __pycache__/
+venv/
+
+# OS / editor files
+.vscode/
+.pytest_cache/
