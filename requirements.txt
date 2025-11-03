@@ -3,5 +3,4 @@ tkinterdnd2
 fpdf
 PyMuPDF
 beautifulsoup4
-openai-whisper
-moviepy
+
